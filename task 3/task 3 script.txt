@@ -1,0 +1,24 @@
+
+    document.getElementById("convert").addEventListener("click", function () {
+    const degrees = parseFloat(document.getElementById("degrees").value);
+    const type = document.getElementById("type").value;
+    const resultDiv = document.getElementById("result");
+
+    if (isNaN(degrees)) {
+        resultDiv.textContent = "Enter valid number";
+        resultDiv.style.color = "red";
+        return;
+    }
+
+    let result;
+    if (type === "fahrenheit") {
+        result = (degrees - 32) * 5 / 9;
+        resultDiv.textContent = `${result.toFixed(4)} °C`;
+    } else if (type === "celsius") {
+        result = (degrees * 9 / 5) + 32;
+        resultDiv.textContent = `${result.toFixed(4)} °F`;
+    }
+
+    resultDiv.style.color = "#222";
+});
+
