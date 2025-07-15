@@ -1,0 +1,97 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #ffe6e6; 
+  color: #333;
+  line-height: 1.6;
+}
+
+
+header {
+  background-color: #ffcccc; 
+  padding: 40px 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  color: #800000;
+}
+
+header p {
+  margin: 15px auto;
+  max-width: 700px;
+  color: #4d0000;
+}
+
+header .btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #65c9ea; 
+  color: rgb(241, 76, 180);
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+header .btn:hover {
+  background-color: #e67373;
+}
+
+header .sevice {
+  font-style: italic;
+  margin-top: 10px;
+  color: #990000;
+}
+
+/* Section: Features and Benefits */
+section {
+  padding: 40px 20px;
+}
+
+.features,
+.benefits {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+/* Card Style for Feature/Benefit Items */
+.features div,
+.benefits div {
+  background-color: #ffe6e6; /* light pink */
+  border: 1px solid #ffcccc;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 0 0 10px rgba(255, 204, 204, 0.5);
+  transition: transform 0.3s ease;
+}
+
+.features div:hover,
+.benefits div:hover {
+  transform: translateY(-5px);
+}
+
+.features img,
+.benefits img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.features h2,
+.benefits h3 {
+  color: #b30000;
+  margin-bottom: 10px;
+}
