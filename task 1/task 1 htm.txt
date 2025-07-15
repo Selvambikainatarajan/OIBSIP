@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>cloud landing pade</title>
+        <link rel="stylesheet" href="C:\Internship\task 1\style 3.css">
+    </head>
+    <body>
+        <header>
+            <h1>Unlock The Cloud Services</h1>
+            <p>IT sources and applications delivered over the internet by third-party providers, allowing users to access computer power, storage, and software without needing to manage their own infrastruture</p>
+            <a herf="#" class="btn"> Explore </a>
+            <p class="sevice"> 1 month free service</p>
+        </header>
+        <section class="features">
+            <div class="charecterstics">
+                <img src="C:\Internship\task 1\image\image 1.jpeg" alt="on-demand self-sevice">
+                <h2>On-Demand Self-Service</h2>
+                <p>On-demand self-service, a core characteristic of cloud computing, allows users to unilaterally provision computing capabilities, such as server time and network storage, as needed, without requiring human interaction with the service provider</p> 
+            </div>
+            <div class="features">
+                <img src="C:\Internship\task 1\image\image 2.jpeg" ait="broad network acess">
+                <h2>
+                    Broad Network Acess
+                </h2>
+                <p>Broad Network Access, a key characteristic of cloud computing, refers to the ability to access cloud services over a network using standard mechanisms and a variety of devices</p>
+            </div>
+            <div class="features">
+                <img src="C:\Internship\task 1\image\image 3.jpeg" alt="resource pooling">
+                <h2>Resource Pooling</h2>
+                <p>Resource pooling in cloud computing refers to the practice of aggregating and sharing computing resources, like processing power, storage, and network capacity, among multiple users or applications. </p>
+            </div>
+        </section>
+        <section class="benefits">
+            <div class="benefits">
+                <h3>Cost Saving</h3>
+                <p>the practice of minimizing expenses related to cloud computing services while maintaining or improving performance and meeting business objectives</p>
+            </div>
+            <div class="benefits">
+                <h3>Enhanced Collabration</h3>
+                <p>the ability of multiple users to simultaneously work on and interact with the same documents, projects, or data stored in a cloud-based platform. </p>
+            </div>
+            <div class="benefits">
+                <h3>Increased Accessibility</h3>
+                <p>the ability for a wider range of users, including those with disabilities, to easily access and utilize cloud-based resources, applications, and data, regardless of their location or device</p>
+            </div>
+        </section>
+        <section
+    </body>
+</html>
