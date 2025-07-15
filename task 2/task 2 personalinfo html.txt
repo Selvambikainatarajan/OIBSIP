@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>education profile</title>
+        <link rel="stylesheet" href="C:\Internship\task 2\style.css">
+    </head>
+    <body>
+         <header>
+            <h1>
+                EDUCAATION profile
+            </h1>
+            <nav>
+                <ul>
+                    <li><a href="my portfolio.html"> About</a></li>
+                    <li><a href="project.html"> Project detail</a></li>
+                    <li><a href="personal info.html"> Personal info</a></li>
+                    <li><a href="contact.html"> Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section class="education">
+            <h1>SSLC</h1>
+            <p> I complete my SSLC in vidhyaa parthi higher secandary school with 93%</p>
+        </section>
+        <section class="education">
+            <h1>HSC</h1>
+            <p> I complete my HSC in vidhya parthi highe secondary school with 65.5%</p>
+        </section>
+        <section class="education">
+            <h1>UG</h1>
+            <p>I completed my undergraduate degree in Computer Science and Engineering at NPR College of Engineering and Technology with a CGPA of 8.5.</p>
+        </section>
+    </body>
+</html>

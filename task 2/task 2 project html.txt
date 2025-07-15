@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <tittle>my portfolio</tittle>
+        <link rel="stylesheet" href="C:\Internship\task 2\style.css">
+    </head>
+    <body>
+        <header
+            <h1>
+                PROJECT
+            </h1>
+            <nav>
+                <ul>
+                    <li><a href="my portfolio.html"> About</a></li>
+                    <li><a href="education details.html"> Education details</a></li>
+                    <li><a href="personal info.html"> Personal info</a></li>
+                    <li><a href="contact.html"> Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section class="project">
+            <h2>android app development for women safety</h2>
+            <h3>project discription</h3>
+            <p>Women are adept at mobilizing diverse groups for a frequent cause. They often work
+across racial, sacred, opinionated, and intellectual divides to encourage serenity. We are all
+aware of importance of women's security, but we must recognize that they should be well
+secluded. Women's are not physically powerful as compared to men, in crisis situation a
+helping hand would be a relief for them. Many unfortunate incidents have been taking place in
+woman’s case. Problems may come from any direction such as women walking on the road
+after the work, going to super market or many other reasons for which they go alone. People at
+home are not sure of their return safely. Another factor is woman die without knowing the
+reason as they attend excursions and industrial trips conducted by the organizations. It happens
+due to attacks on woman but not suicides. With the rapid growth of Android user and cheaper
+internet cost we can provide a simple medium to create safety awareness among the working
+and professional women of young and teen age. Women Safety Application can show you exact
+location of the women in help to her relatives, guardian and friends along with the specific
+location, where you can go and help it. Women Safety Application system offers the added
+protection of being track by relatives on different time interval and different location. We focus
+on the proposed model that can be used to deal with the problem of security issue of women
+using GPS and GSM based tracking system. And design the application as emergency
+application in mobile phones.</p>
+        </section>
+    </body>
+</html>

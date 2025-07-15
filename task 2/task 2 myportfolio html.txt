@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <tittle>my portfolio</tittle>
+        <link rel="stylesheet" href="C:\Internship\task 2\style.css">
+    </head>
+    <body>
+        <header>
+            <h1>
+                selvambikai N
+            </h1>
+            <nav>
+                <ul>
+                    <li><a href="education details.html"> Education Details</a></li>
+                    <li><a href="project.html"> Project detail</a></li>
+                    <li><a href="personal info.html"> Personal info</a></li>
+                    <li><a href="contact.html"> Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section class="about">
+            <h2>about me</h2>
+            <p>My name is Selvambikai. I have completed my undergraduate degree in B.E. in the stream of Computer Science and Engineering.
+I am seeking a career that is challenging and interesting, and that allows me to work in leading areas of technology.
+I am looking for a job that provides opportunities to learn, innovate, and enhance my skills and strengths in alignment with the company's goals and objectives.</p>
+        </section>
+    </body>
+
+</html>
